@@ -5,7 +5,7 @@
 
 Releasing script that pulls Zabbix data without any hassle.
 
-Note: The Zabbix Data Retriever script has been designed to efficiently extract data from a Zabbix server. It streamlines the process of accessing data from the server, making it faster and more convenient. However, due to the sensitive information it contains, a full working version cannot be made publicly available. Nevertheless, you can modify the functions within the script to suit your specific requirements. Currently, the script can extract CPU and RAM usage data from item IDs specified in the Zabbix URL. You will need to update these IDs to match the items in your Zabbix environment.
+Note: The **Zabbix Data Retriever** script has been designed to efficiently extract data from a Zabbix server. It streamlines the process of accessing data from the server, making it faster and more convenient. However, due to the sensitive information it contains, a full working version cannot be made publicly available. Nevertheless, you can modify the functions within the script to suit your specific requirements. Currently, the script can extract CPU and RAM usage data from item IDs specified in the Zabbix URL. You will need to update these IDs to match the items in your Zabbix environment.
 
 ## Features
 
@@ -16,7 +16,7 @@ Note: The Zabbix Data Retriever script has been designed to efficiently extract 
 
 ## Usage
 
-Please note that Zabbix Data Retriever requires a Windows operating system.
+Please note that **Zabbix Data Retriever** script requires a Windows operating system.
 
 To launch the script:
 
