@@ -30,4 +30,4 @@ Note: If you encounter any errors while launching the script, try right-clicking
 
 This software is licensed under GPL-3.0
 
-**Developed with ♥ by bygalacos**
+**Made with ♥ by bygalacos**
