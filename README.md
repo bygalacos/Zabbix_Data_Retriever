@@ -21,7 +21,7 @@ Please note that **Zabbix Data Retriever** script requires a Windows operating s
 To launch the script:
 
 ```sh
-./zabbix_data_retriever.ps
+./zabbix_data_retriever.ps1
 ```
 
 Note: If you encounter any errors while launching the script, try right-clicking and selecting "Run with Powershell".
